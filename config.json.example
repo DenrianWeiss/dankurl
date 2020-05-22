@@ -1,0 +1,6 @@
+{
+  "mongo-url": "mongodb+srv://redirect:v3p1SxKvyKBw2MGt@cluster0-3ekc9.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "mongo-database": "dank_url",
+  "default-url": "https://kunagisa.moe",
+  "initial-token": "114514"
+}
